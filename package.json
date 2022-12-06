@@ -4,7 +4,7 @@
   "description": "Please setup a database to house the provided data (labels, artists, releases)and create a dynamic API endpoint that can serve data as follows:",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongodb": "^3.3.2",
     "mongoose": "^5.7.0"
   },
